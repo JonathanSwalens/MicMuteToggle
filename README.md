@@ -15,8 +15,7 @@ This software:
 Your keyboard is unlikely to have F15 or F16 buttons; you can likely bind these via your keyboard or mouse customization software, or trigger
 them via something like an Elgato StreamDeck.
 
-For a more-flexible (but less compatible) solution, consider [ahk-micmute](https://github.com/fredemmott/ahk-micmute).
-
+For a more-flexible (but less compatible) solution, consider [ahk-micmute](https://github.com/fredemmott/ahk-micmute)
 MicMuteToggle is useful for programs that do not interoperate well with AutoHotKey; for example, Call Of Duty: Black Ops 4 will immediately exit
 on startup if any AutoHotKey script is running (likely releated to cheat detection).
 
